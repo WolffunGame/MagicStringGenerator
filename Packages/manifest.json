@@ -2,7 +2,7 @@
   "dependencies": {
     "com.coffee.upm-git-extension": "2.0.3",
     "com.cysharp.unitask": "2.3.1",
-    "com.laicasaane.unity-addressables-manager": "https://github.com/felixngd/unity-addressables-manager.git#1.2.3",
+    "com.laicasaane.unity-addressables-manager": "https://github.com/WolffunGame/unity-addressables-manager.git#1.2.3",
     "com.littlebigfun.addressable-importer": "0.11.5",
     "com.unity.addressables": "1.20.0",
     "com.unity.collab-proxy": "2.0.3",
